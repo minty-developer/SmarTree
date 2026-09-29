@@ -1,0 +1,15 @@
+builds/
+configs/
+
+srcs/obj/
+srcs/bin/
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+Thumbs.db
+Desktop.ini
+.DS_Store
